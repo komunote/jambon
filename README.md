@@ -4,6 +4,12 @@ JavaScript Library
 
 Usage example : 
 
+HTML file :
+
+<script src="static/js/jAmbon.js" data-main="static/js/main.js"></script>
+
+main.js file :
+
 (function () {
 
     define(function () {
