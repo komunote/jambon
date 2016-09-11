@@ -1,5 +1,5 @@
 # jambon
-JavaScript Library
+Pure JavaScript Library jQuery-like syntax : DOM manipulations, data-attributes events, ajax calls, popin, require/define and templating system.
 
 
 Usage example : 
